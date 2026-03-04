@@ -1,0 +1,1 @@
+This laboratory exercise focuses on modeling and simulating the complete electric drive system of an electric vehicle (EV) using Simscape. Building upon the asynchronous motor and programmable voltage source models from previous exercises, this project introduces vehicle dynamics, road load forces, and real-world driving conditions.
